@@ -1,0 +1,5 @@
+use:
+git config --global credential.helper wincred
+
+the first time, type username, pass
+the second time, it will work
